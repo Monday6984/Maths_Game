@@ -5,7 +5,7 @@
 The purpose of the project is to create a maths tutorial game on the multiplication tabe. The project displays random maths question with multiple choices which also displays a score and a timer.
 
 ## Screenshots
-![math-game screenshot](./images/maths-game.PNG)
+![math-game screenshot](/maths-game.PNG)
 
 ## [live Demo](https://maths-game-two.vercel.app/)
 
